@@ -14,4 +14,4 @@ Python · Linux · Bash · Docker · GitHub Actions · Prometheus · Grafana · 
 
 ## Contact
 
-numpe2@gmail.com
+numpe@seznam.cz
